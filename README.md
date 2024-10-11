@@ -18,5 +18,31 @@
 - Gerenciador de pacotes npm ou yarn (recomenda-se usar npm, pois foi utilizado durante o desenvolvimento)
 
 ## Instalação
+ Faça o clone do repositório do projeto:
+```sh
+git clone https://github.com/anakessia/weather-forecast-app.git
+```
+
+Navegue até o diretório do projeto:
+```sh
+cd weather-forecast-app
+```
+
+Instale as dependências do projeto:
+```sh
+npm install
+```
+Inicie o servidor:
+```sh
+npm run dev
+```
+
+A aplicação estará rodando em http://localhost:5173
+
+## Como usar
+- Digite o nome da cidade no campo de busca e pressione "Buscar".
+- O aplicativo exibirá a temperatura atual e outros dados meteorológicos da cidade selecionada.
+- Veja a previsão do tempo para os próximos 5 dias logo abaixo.
+- Para alternar entre os modos Claro e Escuro, clique no ícone localizado no canto superior direito da tela.
 
 
