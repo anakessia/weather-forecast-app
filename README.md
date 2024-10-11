@@ -13,3 +13,10 @@
 - Vite: Ferramenta de build para desenvolvimento rápido em projetos React.
 - API de Previsão do Tempo: Para obter as informações meteorológicas.
 
+##Pré-requisitos
+- Node.js
+- Gerenciador de pacotes npm ou yarn (recomenda-se usar npm, pois foi utilizado durante o desenvolvimento)
+
+## Instalação
+
+
