@@ -1,0 +1,106 @@
+
+.light-mode {
+    background-color: #f5f5f5;
+    color: #000;
+  }
+  
+  .light-mode h1 {
+    color: #000;
+  }
+  
+  .light-mode input {
+    background-color: #fff;
+    color: #000;
+  }
+  
+  .light-mode button {
+    background-color: #4a4948;
+    color: #fff;
+  }
+  
+  
+  .dark-mode {
+    background-color: #121212;
+    color: #fff;
+  }
+  
+  .dark-mode h1 {
+    color: #fff;
+  }
+  
+  .dark-mode input {
+    background-color: #e1dcdc;
+    color: #090909;
+  }
+  
+  .dark-mode button {
+    background-color: #555;
+    color: #fff;
+  }
+  
+  
+  .container {
+    max-width: 1000px;
+    padding: 20px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+  }
+  
+ 
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  
+  .input-group {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+  
+  
+  input {
+    padding: 10px;
+    border-radius: 20px 0 0 20px;
+    border: none;
+    width: 60%;
+    max-width: 300px;
+    outline: none; 
+  }
+  
+
+  button {
+    background-color: #4a4948;
+    border: 0;
+    padding: 10px;
+    border-radius: 0 20px 20px 0;
+    cursor: pointer;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  button:hover {
+    background-color: #333;
+  }
+  
+  
+  button.toggle-theme {
+    margin-bottom: 20px;
+    background-color: transparent;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  button.toggle-theme:hover {
+    background-color: transparent;
+  }
+  
