@@ -45,4 +45,7 @@ A aplicação estará rodando em http://localhost:5173
 - Veja a previsão do tempo para os próximos 5 dias logo abaixo.
 - Para alternar entre os modos Claro e Escuro, clique no ícone localizado no canto superior direito da tela.
 
+## Contribuição
+<p>Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.</p>
 
+<p>Feito por Ana Kessia</p>
